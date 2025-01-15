@@ -481,5 +481,5 @@ dl.codebox {
     z-index: 3;
     width: 290px;
     height: 140px;
-    overflow: hidden;
+    overflow: auto;
 }
